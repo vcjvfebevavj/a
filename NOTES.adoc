@@ -1,0 +1,5 @@
+## Daemonization
+
+Is a pain in Go, but can do
+https://code.google.com/p/go/issues/detail?id=227[gressil-like] which
+is annoying, but does seem to work.
